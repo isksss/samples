@@ -1,13 +1,20 @@
 # 私の開発環境メモ
 
-## mac
+## nodeバージョン管理
 
-## win
+### mac,linux
+[fnm](https://github.com/Schniz/fnm)
 
-## raspberry pi
+### win
+[volta](https://github.com/volta-cli/volta)  
+こっちはそのうちfnmに変える。
 
-code-serverを利用して、ブラウザ上から開発を行なっています。
-### npmバージョン管理
-[fnm](https://github.com/Schniz/fnm)を利用している。　　
-使用方法  
-作業用ディレクトリに`.node-version`というファイルを作成し、使用したいnodeバージョンを記述するだけ。  
+
+## golang
+latest  
+[download](https://go.dev/dl)
+## Pythonバージョン管理
+
+## 公式サイト
+- [node.js](https://nodejs.org/ja/)
+- [golang](https://go.dev/)
